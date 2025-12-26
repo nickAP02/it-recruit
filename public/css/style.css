@@ -6147,6 +6147,7 @@ textarea {
   border: none;
   outline: none;
 }
+/* modified */
 .popup-search-field input::placeholder {
   color: var(--headings-color);
   font-family: var(--title-font-family);
