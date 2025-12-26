@@ -11497,7 +11497,7 @@ input:focus-visible {
 .search_area input {
   font-size: 15px;
 }
-.search_area input::placehoder {
+.search_area input::placeholder {
   color: var(--headings-color);
 }
 .search_area label {
