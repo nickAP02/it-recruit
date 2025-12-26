@@ -544,7 +544,7 @@ li {
   height: 70px;
   padding-left: 30px;
 }
-.mailchimp-style2 .form-control:placeholder {
+.mailchimp-style2 .form-control::placeholder {
   color: var(--headings-color);
   font-size: 14px;
   font-weight: 400;
